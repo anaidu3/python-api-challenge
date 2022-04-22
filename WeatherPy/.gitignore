@@ -1,4 +1,10 @@
 ```python
 # Adding config.py file.
 api_keys.py
+
+# Other files to add to git ignore
+API_practice.ipynb
+
+random_numbers.ipynb
+
 ```
