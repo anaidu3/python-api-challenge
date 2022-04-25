@@ -98,7 +98,8 @@ To complete this part of the assignment, you will need to do the following:
 
   ![heatmap](Images/heatmap.png)
 
-* Narrow down the DataFrame to find your ideal weather condition. For example:
+* Narrow down the DataFrame to find your ideal weather condition. For example:pwd
+
 
   * A max temperature lower than 80 degrees but higher than 70.
 
